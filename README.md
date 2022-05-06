@@ -1,3 +1,3 @@
-# Documentation Eye Tracking
+# Cadeira OCCHI
 
-Projetar um dispositivo que através de movimento de pupilas tracione e direcione uma cadeira com dois eixos para a condução de portadores de deficiência motora.
+Repositório destinado a armazenar artefatos do projeto que não fazem parte do código fonte.
